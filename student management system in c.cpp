@@ -1,9 +1,9 @@
 #include <stdio.h>  
 
-// Define the maximum number of students
+// maximum number of students
 #define MAX_STUDENTS 3  
 
-// Define a structure to hold student data
+//structure to hold student data
 struct student {  
     int roll_no;           // Student's roll number
     char name[50];         // Student's name
